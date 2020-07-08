@@ -2,7 +2,7 @@
 Minecraft服务器压力测试工具,基于MCProtocolLib协议库<br>
 本工具根据MIT协议开源,只可用于服务器压力测试<br>
 请勿用于其他非法用途,否则造成的后果由使用者自行承担!<br>
-已弃坑,可以尝试我的<a href="https://github.com/CirnoTH/EndMinecraftUltra">EndMinecraftUltra</a>,目前支持MC1.16.1最新协议版本
+已弃坑,推荐使用<a href="https://github.com/CirnoTH/EndMinecraftUltra">EndMinecraftUltra</a>,目前支持MC1.16.1最新协议版本
 
 #### 支持方式: ####
 1.单IP MOTD<br>
